@@ -45,3 +45,105 @@ let b = 20;
 b--;
 console.log(b); // output: 19
 
+let favoriteAnimal = 'Lion';
+console.log('My favorite animal: ' + favoriteAnimal + '.'  )
+
+const myPet = 'armadillo';
+console.log(`I own a pet ${myPet}.`);
+//Output: I own a pet armadillo
+
+const myName = 'Valliappan';
+const myCity = 'Chennai';
+
+console.log(`My name is ${myName}. My favorite city is ${myCity}`);
+
+typeof operator
+While writing code, it can be useful to keep track of the data types of the variables in your program. If you need to check the data type of a variable’s value, you can use the typeof operator.
+
+The typeofoperator checks the value to its right and returns, or passes back, a string of the data type.
+
+let newVariable = 'Playing around with typeof.';
+console.log(typeof newVariable);
+newVariable = 1;
+console.log(typeof newVariable);
+
+Declaration of the variables is the key!
+
+The + operator is used to concatenate strings including string values held in variables
+In ES6, template literals use backticks ` and ${} to interpolate values into a string.
+The typeof keyword returns the data type (as a string) of a value.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
